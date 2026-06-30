@@ -38,7 +38,6 @@
 
 # Logs and test outputs
 *.log
-*.txt
 load_test_result.txt
 server.log
 
